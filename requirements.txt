@@ -1,0 +1,7 @@
+rich
+pycryptodome
+aiohttp
+beautifulsoup4
+fake-useragent
+libsql-client
+cryptography
